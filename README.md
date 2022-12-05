@@ -1,9 +1,9 @@
 ### Hi there 👋
 This GitHub is used to collaborate with others in the Chapter 13 Bankruptcy community that use BSS TNG software. This contains a collection of public repositories. 
 
--Inquiry Worksheets
--Case Worksheets
--Admin Worksheets
+- Inquiry Worksheets
+- Case Worksheets
+- Admin Worksheets
 
 
 
